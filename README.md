@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Lucas</h1>
+<h1 align="center">Olá, eu sou o Lucas Sales</h1>
 
 <p align="center">
   <b>Analista de Redes · Segurança da Informação · Design</b><br>
