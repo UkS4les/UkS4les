@@ -94,6 +94,7 @@ Extrator de imagens XDVDFS (Xbox original e Xbox 360) para Linux, alternativa ao
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" alt="Arduino">
   <img src="https://img.shields.io/badge/ESP32%20%2F%20ESP8266-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32 / ESP8266">
+  <img src="https://img.shields.io/badge/M5StickC-1A1A1A?style=flat-square" alt="M5StickC">
   <img src="https://img.shields.io/badge/Orange%20Pi-FF8C00?style=flat-square" alt="Orange Pi">
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Photoshop">
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=black" alt="Illustrator">
