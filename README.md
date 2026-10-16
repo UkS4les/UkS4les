@@ -10,7 +10,7 @@
 
 ## Sobre mim
 
-Cuido de redes, servidores, CFTV, controle de acesso e portaria inteligente como **Analista de Redes e Comunicação de Dados** desde 2022. Antes da infraestrutura,cerca de 10 deles como designer e web designer em gráfica e editora. Daí vem o que eu busco: tecnologia que protege **e** que qualquer pessoa consegue usar.
+Cuido de redes, servidores, CFTV, controle de acesso e portaria inteligente como **Analista de Redes e Comunicação de Dados** desde agosto de 2021. Antes da infraestrutura,cerca de 10 deles como designer e web designer em gráfica e editora. Daí vem o que eu busco: tecnologia que protege **e** que qualquer pessoa consegue usar.
 
 - **Construindo** o **H7X**, uma camada de defesa de rede acessível para empresas sem analista de segurança
 - **Sócio** do **[Calenia](https://calenia.com.br/)**, sistema de gestão para salões de beleza
