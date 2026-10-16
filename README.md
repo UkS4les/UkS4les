@@ -6,11 +6,12 @@
   <a href="https://www.linkedin.com/in/lucas-sales-vicente-067987426/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:svicentelucas@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
   <a href="https://calenia.com.br/"><img src="https://img.shields.io/badge/calenia.com.br-0B0F14?style=for-the-badge&logo=googlechrome&logoColor=1DDB8B" alt="Calenia"></a>
+  <a href="https://brachah.com.br/"><img src="https://img.shields.io/badge/brachah.com.br-0B0F14?style=for-the-badge&logo=googlechrome&logoColor=1DDB8B" alt="Brachah"></a>
 </p>
 
 ## Sobre mim
 
-Cuido de redes, servidores, CFTV, controle de acesso e portaria inteligente como **Analista de Redes e Comunicação de Dados** desde agosto de 2021. Antes da infraestrutura,cerca de 10 deles como designer e web designer em gráfica e editora. Daí vem o que eu busco: tecnologia que protege **e** que qualquer pessoa consegue usar.
+Cuido de redes, servidores, CFTV, controle de acesso e portaria inteligente como **Analista de Redes e Comunicação de Dados** desde 2022. Antes da infraestrutura, foram **mais de 15 anos de design gráfico e web design**, cerca de 10 deles como designer e web designer em gráfica e editora. Daí vem o que eu busco: tecnologia que protege **e** que qualquer pessoa consegue usar.
 
 - **Construindo** o **H7X**, uma camada de defesa de rede acessível para empresas sem analista de segurança
 - **Sócio** do **[Calenia](https://calenia.com.br/)**, sistema de gestão para salões de beleza
