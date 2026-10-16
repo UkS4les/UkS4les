@@ -55,6 +55,17 @@ O H7X reúne **mais de 130 ferramentas** e protocolos de segurança já consagra
       <p>Sou sócio e fiz o site. Também criei logotipo, marca e site da <a href="https://brachah.com.br/">Brachah</a>, clínica de podologia e estética em Londrina que usa o sistema.</p>
     </td>
     <td width="50%" valign="top">
+      <h3>Recorix</h3>
+      <img src="https://img.shields.io/badge/status-em%20desenvolvimento-blue?style=flat-square" alt="em desenvolvimento">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+      <img src="https://img.shields.io/badge/Pix-32BCAD?style=flat-square&logo=pix&logoColor=white" alt="Pix">
+      <img src="https://img.shields.io/badge/reposit%C3%B3rio-privado-555555?style=flat-square" alt="repositório privado">
+      <p><b>Seu carnê Pix.</b> Planos de assinatura, agenda e <b>cobrança recorrente por Pix</b> para negócios locais que ainda cobram por carnê, como planos funerários e clínicas de ortodontia.</p>
+      <p>Pensado para ser referência em segurança desde o começo.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/UkS4les/MTG-Meta">MTG Meta</a></h3>
       <img src="https://img.shields.io/badge/status-em%20desenvolvimento-blue?style=flat-square" alt="em desenvolvimento">
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
@@ -63,8 +74,6 @@ O H7X reúne **mais de 130 ferramentas** e protocolos de segurança já consagra
       <p>Open source para Magic: The Gathering que mostra <b>o meta por formato</b> (Standard, Pioneer, Modern e Pauper, em janelas de 7, 14 e 30 dias) e <b>quais decks você já consegue montar</b>, cruzando sua coleção, de papel ou do Arena, com os arquétipos dos torneios do Magic Online.</p>
       <p>Histórico de partidas e taxa de vitória pelo log do Arena. Next.js + Postgres embutido (PGlite), sobe com <code>docker compose up</code>; 102 testes e CI.</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>Forja</h3>
       <img src="https://img.shields.io/badge/status-em%20desenvolvimento-blue?style=flat-square" alt="em desenvolvimento">
@@ -73,30 +82,34 @@ O H7X reúne **mais de 130 ferramentas** e protocolos de segurança já consagra
       <img src="https://img.shields.io/badge/reposit%C3%B3rio-privado-555555?style=flat-square" alt="repositório privado">
       <p>Jogo social para conectar profissionais de TI, web e design: uma <b>cidadela medieval cyberpunk</b> em visual isométrico, onde cada pessoa monta a sua loja e troca serviços, ajuda e networking. Desafios e eventos periódicos destacam quem se esforça.</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>TuxGG</h3>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
       <img src="https://img.shields.io/badge/reposit%C3%B3rio-privado-555555?style=flat-square" alt="repositório privado">
       <p>Comunidade gamer focada em <b>Linux, jogos, programação e tecnologia</b>, conectando jogadores e desenvolvedores num ambiente acolhedor e colaborativo.</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/UkS4les/XIso-Debian-Extrator-de-iso-xbox">XIso Extrator</a></h3>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
       <p>Extrator de imagens XDVDFS (Xbox original e Xbox 360) para Linux, alternativa ao ExtractXISO do Windows. Detecta o layout da imagem, reconstrói a árvore de diretórios e tem interface gráfica (Tkinter) e linha de comando. Só Python, sem dependências externas.</p>
     </td>
-    <td width="50%" valign="top">
-      <h3>Certificações e cursos</h3>
-      <img src="https://img.shields.io/badge/IBSEC-Fundamentos%20em%20Redes-1DDB8B?style=flat-square" alt="IBSEC — Fundamentos em Redes"><br>
-      <img src="https://img.shields.io/badge/Cisco%20NetAcad-Introdu%C3%A7%C3%A3o%20%C3%A0%20Ciberseguran%C3%A7a-049FD9?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Networking Academy — Introdução à Cibersegurança"><br>
-      <img src="https://img.shields.io/badge/Cisco%20NetAcad-Linux%20Unhatched-049FD9?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Networking Academy — Linux Unhatched">
-      <p>Cursos de <b>Hacker Ético com Kali Linux</b> e <b>Perícia Forense Computacional</b> (40 h).</p>
-      <!-- Se tiver o link do Credly ou da página de validação, envolva cada selo com <a href="LINK">...</a> -->
-    </td>
   </tr>
 </table>
+
+## Certificações e cursos
+
+<p>
+  <img src="https://img.shields.io/badge/IBSEC-Fundamentos%20em%20Redes-1DDB8B?style=for-the-badge" alt="IBSEC — Fundamentos em Redes">
+  <img src="https://img.shields.io/badge/Cisco%20NetAcad-Introdu%C3%A7%C3%A3o%20%C3%A0%20Ciberseguran%C3%A7a-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Networking Academy — Introdução à Cibersegurança">
+  <img src="https://img.shields.io/badge/Cisco%20NetAcad-Linux%20Unhatched-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Networking Academy — Linux Unhatched">
+</p>
+
+<p>Cursos de <b>Hacker Ético com Kali Linux</b> e <b>Perícia Forense Computacional</b> (40 h).</p>
+
+<!-- Se tiver o link do Credly ou da página de validação, envolva cada selo com <a href="LINK">...</a> -->
 
 ## Ferramentas
 
