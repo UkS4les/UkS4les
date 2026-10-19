@@ -56,7 +56,7 @@ O H7X reúne **mais de 130 ferramentas** e protocolos de segurança já consagra
       <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
       <img src="https://img.shields.io/badge/licen%C3%A7a-MIT-lightgrey?style=flat-square" alt="MIT">
-      <p>Open source de <b>chat e quadros de tarefas para empresas</b>, que roda no servidor da própria empresa: canais, conversas diretas, menções e anexos, mais <b>quadros no estilo Trello</b> ligados aos canais, com as movimentações aparecendo na conversa. Um container Docker, uma dependência, sem mensalidade e sem dados saindo da rede. Instala até no CasaOS.</p>
+      <p>Open source de <b>chat e quadros de tarefas para empresas</b>, que roda no servidor da própria empresa: canais, conversas diretas, menções e anexos, ligados aos canais, com as movimentações aparecendo na conversa. Um container Docker, uma dependência, sem mensalidade e sem dados saindo da rede. Instala até no CasaOS.</p>
       <a href="https://github.com/UkS4les/Varal"><img src="https://raw.githubusercontent.com/UkS4les/Varal/main/docs/quadro.png" width="100%" alt="Quadro do Varal com listas, cartões, etiquetas e prazos"></a>
     </td>
   </tr>
