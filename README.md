@@ -48,6 +48,19 @@ O H7X reúne **mais de 130 ferramentas** e protocolos de segurança já consagra
 
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/UkS4les/Varal">Varal</a></h3>
+      <img src="https://img.shields.io/badge/status-no%20ar-brightgreen?style=flat-square" alt="no ar">
+      <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+      <img src="https://img.shields.io/badge/licen%C3%A7a-MIT-lightgrey?style=flat-square" alt="MIT">
+      <p>Open source de <b>chat e quadros de tarefas para empresas</b>, que roda no servidor da própria empresa: canais, conversas diretas, menções e anexos, mais <b>quadros no estilo Trello</b> ligados aos canais, com as movimentações aparecendo na conversa. Um container Docker, uma dependência, sem mensalidade e sem dados saindo da rede. Instala até no CasaOS.</p>
+      <a href="https://github.com/UkS4les/Varal"><img src="https://raw.githubusercontent.com/UkS4les/Varal/main/docs/quadro.png" width="100%" alt="Quadro do Varal com listas, cartões, etiquetas e prazos"></a>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://calenia.com.br/">Calenia</a></h3>
       <img src="https://img.shields.io/badge/status-no%20ar-brightgreen?style=flat-square" alt="no ar">
